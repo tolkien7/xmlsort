@@ -1,0 +1,129 @@
+<CrsResponse>
+    <CrsCommonTags>
+        <Branch>BBH_IFI_5</Branch>
+        <RequestNumber>3985</RequestNumber>
+        <RequestType>getV2ComparativeAnalysisByDuration</RequestType>
+        <UserId>EJB-Container</UserId>
+        <secID>ifiuser</secID>
+        <secPW>pas2ifi</secPW>
+    </CrsCommonTags>
+    <CrsUniqueTags>
+        <Report_data>
+            <Account>3820073</Account>
+            <Activity>1</Activity>
+            <AsOfDate>30-APR-2021</AsOfDate>
+            <AverageLifeDistribution>
+                <AverageLife>
+                    <AvgLife/>
+                    <BenchmarkDuration>0.45%</BenchmarkDuration>
+                    <BenchmarkWeight>23.92%</BenchmarkWeight>
+                    <ContributionPortAvglife>0.51</ContributionPortAvglife>
+                    <PortfolioWeight>29.23%</PortfolioWeight>
+                </AverageLife>
+                <AverageLife>
+                    <AvgLife>10-15 Years</AvgLife>
+                    <BenchmarkDuration>0.18%</BenchmarkDuration>
+                    <BenchmarkWeight>1.46%</BenchmarkWeight>
+                    <ContributionPortAvglife>0.35</ContributionPortAvglife>
+                    <PortfolioWeight>3.39%</PortfolioWeight>
+                </AverageLife>
+                <AverageLife>
+                    <AvgLife>15 Years+</AvgLife>
+                    <BenchmarkDuration>3.39%</BenchmarkDuration>
+                    <BenchmarkWeight>13.73%</BenchmarkWeight>
+                    <ContributionPortAvglife>3.03</ContributionPortAvglife>
+                    <PortfolioWeight>12.88%</PortfolioWeight>
+                </AverageLife>
+                <AverageLife>
+                    <AvgLife>3-5 Years</AvgLife>
+                    <BenchmarkDuration>1.16%</BenchmarkDuration>
+                    <BenchmarkWeight>28.23%</BenchmarkWeight>
+                    <ContributionPortAvglife>1.32</ContributionPortAvglife>
+                    <PortfolioWeight>34.40%</PortfolioWeight>
+                </AverageLife>
+                <AverageLife>
+                    <AvgLife>5-8 Years</AvgLife>
+                    <BenchmarkDuration>1.56%</BenchmarkDuration>
+                    <BenchmarkWeight>24.66%</BenchmarkWeight>
+                    <ContributionPortAvglife>0.70</ContributionPortAvglife>
+                    <PortfolioWeight>11.14%</PortfolioWeight>
+                </AverageLife>
+                <AverageLife>
+                    <AvgLife>8-10 Years</AvgLife>
+                    <BenchmarkDuration>0.71%</BenchmarkDuration>
+                    <BenchmarkWeight>8.00%</BenchmarkWeight>
+                    <ContributionPortAvglife>0.80</ContributionPortAvglife>
+                    <PortfolioWeight>8.97%</PortfolioWeight>
+                </AverageLife>
+                <AvgLifeTotal>
+                    <TotalBenchmark>100.00%</TotalBenchmark>
+                    <TotalPorfolio>100.00%</TotalPorfolio>
+                    <TotalPortAvgLife>6.71</TotalPortAvgLife>
+                </AvgLifeTotal>
+                <Chart>
+                    <ChartData>yes</ChartData>
+                    <ChartFile>getV2ComparativeAnalysisByDuration1621703685955.png</ChartFile>
+                    <ChartPath>/opt/webfs/apps/webdata/CRSCharts</ChartPath>
+                </Chart>
+            </AverageLifeDistribution>
+            <DurationDistribution>
+                <Chart>
+                    <ChartData>yes</ChartData>
+                    <ChartFile>getV2ComparativeAnalysisByDuration1621703680374.png</ChartFile>
+                    <ChartPath>/opt/webfs/apps/webdata/CRSCharts</ChartPath>
+                </Chart>
+                <Duration>
+                    <BenchmarkDuration>0.37</BenchmarkDuration>
+                    <BenchmarkWeight>4.23%</BenchmarkWeight>
+                    <ContributionDuration>0.39</ContributionDuration>
+                    <DurationPeriod>8-10 Years</DurationPeriod>
+                    <PortfolioWeight>4.48%</PortfolioWeight>
+                </Duration>
+                <Duration>
+                    <BenchmarkDuration>0.54</BenchmarkDuration>
+                    <BenchmarkWeight>28.30%</BenchmarkWeight>
+                    <ContributionDuration>0.58</ContributionDuration>
+                    <DurationPeriod/>
+                    <PortfolioWeight>34.16%</PortfolioWeight>
+                </Duration>
+                <Duration>
+                    <BenchmarkDuration>0.55</BenchmarkDuration>
+                    <BenchmarkWeight>4.34%</BenchmarkWeight>
+                    <ContributionDuration>1.20</ContributionDuration>
+                    <DurationPeriod>10-15 Years</DurationPeriod>
+                    <PortfolioWeight>9.32%</PortfolioWeight>
+                </Duration>
+                <Duration>
+                    <BenchmarkDuration>1.10</BenchmarkDuration>
+                    <BenchmarkWeight>29.16%</BenchmarkWeight>
+                    <ContributionDuration>1.10</ContributionDuration>
+                    <DurationPeriod>3-5 Years</DurationPeriod>
+                    <PortfolioWeight>29.41%</PortfolioWeight>
+                </Duration>
+                <Duration>
+                    <BenchmarkDuration>1.45</BenchmarkDuration>
+                    <BenchmarkWeight>23.89%</BenchmarkWeight>
+                    <ContributionDuration>0.98</ContributionDuration>
+                    <DurationPeriod>5-8 Years</DurationPeriod>
+                    <PortfolioWeight>15.30%</PortfolioWeight>
+                </Duration>
+                <Duration>
+                    <BenchmarkDuration>1.86</BenchmarkDuration>
+                    <BenchmarkWeight>10.08%</BenchmarkWeight>
+                    <ContributionDuration>1.44</ContributionDuration>
+                    <DurationPeriod>15 Years+</DurationPeriod>
+                    <PortfolioWeight>7.34%</PortfolioWeight>
+                </Duration>
+                <DurationTotal>
+                    <TotalBenchmark>100.00%</TotalBenchmark>
+                    <TotalBenchmarkDuration>5.87</TotalBenchmarkDuration>
+                    <TotalPorfolio>100.00%</TotalPorfolio>
+                    <TotalPortfolioDuration>5.68</TotalPortfolioDuration>
+                </DurationTotal>
+            </DurationDistribution>
+            <ReportName>Comparative Analysis (Continued)</ReportName>
+            <ReportTocId>X</ReportTocId>
+            <StartDate>01-APR-2021</StartDate>
+        </Report_data>
+    </CrsUniqueTags>
+</CrsResponse>
